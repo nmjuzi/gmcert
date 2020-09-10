@@ -17,7 +17,7 @@ import com.wyw.gmcert.impl.Sm2KeyPairImpl;
 
 /**
  * @author 王亚雯
- * 2018年9月8日 上午10:52:35
+ * 2020年9月8日 上午10:52:35
  * 用于 生成所有支持的秘钥对类型
  */
 public class KeyPairUtil {

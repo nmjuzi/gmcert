@@ -44,7 +44,8 @@ import java.util.Date;
 import java.util.Enumeration;
 
 /**
- * @author 都市桃源 2018年6月17日下午7:04:17
+ * @author 王亚雯
+ * 2020年9月9日 上午9:47:00
  */
 @SuppressWarnings("all")
 public class CertUtil {

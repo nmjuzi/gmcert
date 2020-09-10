@@ -1,8 +1,8 @@
 package com.wyw.gmcert.exception;
 
 /**
- * @author 都市桃源
- * 2018年6月17日下午6:40:44
+ * @author 王亚雯
+ * 2020年9月9日 上午9:47:00
  */
 public class CertException extends Exception {
 

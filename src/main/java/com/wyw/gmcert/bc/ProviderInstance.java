@@ -5,8 +5,8 @@ import java.security.Provider;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
 /**
- * @author 都市桃源
- * 2018年6月30日下午6:26:07
+ * @author 王亚雯
+ * 2020年9月9日 上午9:47:00
  * 提供者创建工具
  */
 public class ProviderInstance {

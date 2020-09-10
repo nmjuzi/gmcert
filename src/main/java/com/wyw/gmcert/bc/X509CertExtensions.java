@@ -12,7 +12,9 @@ import java.util.List;
 
 /**
  * 
- * @author 都市桃源 2018年7月1日下午4:41:23 x509 证书扩展信息生成工具
+ * @author 王亚雯
+ * 2020年9月9日 上午9:47:00 
+ * x509 证书扩展信息生成工具
  */
 public class X509CertExtensions {
 	/**
